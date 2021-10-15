@@ -4,7 +4,7 @@
 ## CLIP3 : https://youtu.be/Is2IASNSzyM (Public Key Infrastructure)
 ## CLIP4 : https://youtu.be/dJrwMAkewxM (การสร้าง Private Key และนำไปใช้)
 ## CLIP5 : (Private Key)
-## CLIP6 : https://youtu.be/fP7UQQjdTlc (นำ Private Key และ Public Key มาเข้ารหัสและถอดรหัสข้อความ)
+## CLIP6 : https://youtu.be/fP7UQQjdTlc (นำ Private Key/Public Key มาเข้ารหัสและถอดรหัสข้อความ)
 ## CLIP7 :
 ## CLIP8 : https://youtu.be/XFJtFTY1YYM (นำ Private Key มาใช้ใน github)
 ## CLIP9 : https://youtu.be/5UyoKVtkAT8 (Software wallet)
