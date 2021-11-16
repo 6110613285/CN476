@@ -9,3 +9,5 @@
 ## CLIP8  : https://youtu.be/XFJtFTY1YYM (นำ Private Key มาใช้ใน github)
 ## CLIP9  : https://youtu.be/5UyoKVtkAT8 (Software wallet)
 ## CLIP10 : https://youtu.be/Bplwn8EoUJc (PKI & Hash function in blockchain)
+## CLIP11 : 
+## CLIP11 : https://youtu.be/jr7yWQ-QqHM (TOR [The Onion Router])
